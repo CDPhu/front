@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Custom404> should render component 1`] = `
+<div
+  className="bg-bvpk-900 flex items-center justify-center h-screen overflow-hidden "
+>
+  <div
+    className="px-6 py-4 rounded"
+  >
+    <div
+      className="mb-2 text-white text-xl"
+    >
+       
+      <span
+        className="font-bold"
+      >
+        404
+      </span>
+       | Page not found
+    </div>
+  </div>
+</div>
+`;

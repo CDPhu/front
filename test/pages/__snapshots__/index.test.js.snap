@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Index> should render component 1`] = `
+[
+  <div
+    className="pt-12 pb-6 mx-4 lg:mx-14"
+  />,
+  <div
+    className="flex items-center justify-center pt-6 md:pb-12"
+  />,
+]
+`;
