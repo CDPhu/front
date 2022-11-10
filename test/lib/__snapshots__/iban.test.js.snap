@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`iban.isValidIBANNumber 0 1`] = `false`;
+
+exports[`iban.isValidIBANNumber 1 1`] = `false`;
+
+exports[`iban.isValidIBANNumber 2 1`] = `false`;
+
+exports[`iban.isValidIBANNumber 3 1`] = `false`;
+
+exports[`iban.isValidIBANNumber 4 1`] = `false`;
+
+exports[`iban.isValidIBANNumber 5 1`] = `false`;
