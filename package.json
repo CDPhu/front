@@ -6,8 +6,8 @@
     "dev": "next dev -H 0.0.0.0 -p 3001",
     "build": "next build",
     "start": "next start -p 3001",
-    "test:watch": "jest -c jest.config.js --runInBand --watch --",
-    "test": "jest -c jest.config.js --runInBand --"
+    "test:report": "npx playwright show-report",
+    "test": "npx playwright test"
   },
   "dependencies": {
     "@headlessui/react": "^1.6.6",
@@ -27,6 +27,7 @@
     "sharp": "^0.30.7"
   },
   "devDependencies": {
+    "@playwright/test": "^1.27.1",
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
     "autoprefixer": "^10.4.8",
